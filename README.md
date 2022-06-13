@@ -12,9 +12,8 @@ npx hardhat test
 npx hardhat node
 node scripts/deploy.js
 npx hardhat help
-```
-
-
 npx hardhat node
 npx hardhat run scripts/deploy.js --network localhost
 yarn dev -p 8080
+
+```
